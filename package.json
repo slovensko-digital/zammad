@@ -163,7 +163,7 @@
     "graphql-tag": "^2.12.6",
     "linkify-string": "^4.2.0",
     "linkifyjs": "^4.2.0",
-    "lodash-es": "^4.17.21",
+    "lodash-es": "^4.17.23",
     "loglevel": "^1.9.2",
     "lowlight": "^3.3.0",
     "mitt": "^3.0.1",
